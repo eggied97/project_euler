@@ -11,8 +11,6 @@ public class main {
 		
 		long numm = 600851475143L;
 		
-		
-		
 		for(long i = 2; i < numm; i++){
 			if(methods.isPrime(i)){
 				if(numm % i ==0){					
